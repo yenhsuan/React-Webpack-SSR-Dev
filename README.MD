@@ -9,7 +9,7 @@ The repo has already integrated popular development tools such as webpack, eslin
 
 ### Prerequisites
 
-Node.js and npm is required.
+Node.js and npm are required.
 
 ### Installing
 
