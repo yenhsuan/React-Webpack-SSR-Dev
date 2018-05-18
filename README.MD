@@ -1,4 +1,4 @@
-# Webpack Dev Env for React.js
+# ![favicon](favicon.ico)Webpack Dev Env for React.js
 
 This is a ready-to-use development envionment for React/ReactSSR projects.
 
